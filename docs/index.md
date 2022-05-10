@@ -15,6 +15,8 @@ Photopea is a website aims to bring near-Photoshop experience to low-level users
 
 To use Photopea, simply go to its website [photopea.com](https://www.photopea.com/) this basically downloads a small, lightweight version of Photoshop onto your browser and runs it on your browser. Depend on your network, it may take some time to load the website.
 
+You can also install it as a web app. Web apps allow you to open websites as if they are local apps. It is the exact same as opening it on a browser, but you don't see the sometimes annoying browser tabs.
+
 *insert picture here*
 Once you load it, it has a welcome page, which allows you to choose a photo from you computer, or various cloud drives. **Note that since everything is running on your local computer, no photos of your own will be uploaded.
 
