@@ -42,4 +42,10 @@ TODO
 ## Layer Styles
 
 ---
-TODO
+Some of the effects for layers are so common that they are included as default on Photopea/Photoshop, including adding colored borders, shadows, etc.
+
+picture here
+
+You can view the panel by right clicking the layer and click `blending options`. A new label will show up. There is a selection panel in the right, and a control panel on the left. When the checkbox on each effect is checked, that effect will be applied on the layer.
+
+picture here
