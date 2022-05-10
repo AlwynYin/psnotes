@@ -43,9 +43,9 @@ TODO
 
 ---
 Some of the effects for layers are so common that they are included as default on Photopea/Photoshop, including adding colored borders, shadows, etc.
+<img width="655" alt="Screen Shot 2022-05-10 at 21 33 23" src="https://user-images.githubusercontent.com/73570489/167640800-b672de56-e1e7-4b68-959c-076359b282f1.png">
 
-picture here
 
 You can view the panel by right clicking the layer and click `blending options`. A new label will show up. There is a selection panel in the right, and a control panel on the left. When the checkbox on each effect is checked, that effect will be applied on the layer.
+<img width="943" alt="Screen Shot 2022-05-10 at 21 33 47" src="https://user-images.githubusercontent.com/73570489/167640863-0296d033-7e5a-450a-b43e-26922c0a426c.png">
 
-picture here
