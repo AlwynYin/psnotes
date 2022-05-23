@@ -31,8 +31,25 @@ TODO
 
 ## Layers
 
----
-TODO
+Layer Panel is at the bottom right of the screen by default
+
+![layer-panel](.\img\layer-panel.png)
+
+### What can it do?
+
+- Change the order of the layers
+- Manage the layers: grouping and deleting the layer
+- Adjust the opacity, blend option (Black Brother will cover this), blend mode of the layer
+- etc.
+
+
+
+### Concept
+
+- The top one in the panel will display as the top one in the image
+- Users can drag layers up and down in the panel to change the order of layers
+- The top image will cover the one under it by default (100% opacity) and will be invisible at 0% opacity
+- A good layer panel can keep the project organized. 
 
 ## Transforms
 
