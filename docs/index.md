@@ -49,12 +49,16 @@ Layer Panel is at the bottom right of the screen by default
 - The top one in the panel will display as the top one in the image
 - Users can drag layers up and down in the panel to change the order of layers
 - The top image will cover the one under it by default (100% opacity) and will be invisible at 0% opacity
-- A good layer panel can keep the project organized. 
+- A good layer panel can keep the project organized.  
 
 ## Transforms
 
 ---
-TODO
+Transformation is a very commonly used shortcut key, which includes common functions such as scaling, rotation, distortion, perspective, horizontal flip, and vertical flip.
+
+We can use these functions to adjust the shape of the image or selected layer at will. 
+
+After calling out the transformation, there will be 8 points in each part of the picture. You can adjust the size and proportion of the photo by dragging different points. Place the mouse on the top of the photo and click and drag the photo to adjust the position of the photo. The desired effect can also be obtained through the superposition of functions.
 
 ## Layer Styles
 
