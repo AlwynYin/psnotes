@@ -55,7 +55,7 @@ Layer Panel is at the bottom right of the screen by default
 
 ---
 Transformation is a very commonly used shortcut key, which includes common functions such as scaling, rotation, distortion, perspective, horizontal flip, and vertical flip.
-
+![transform](./img/transform.png)
 We can use these functions to adjust the shape of the image or selected layer at will. 
 
 After calling out the transformation, there will be 8 points in each part of the picture. You can adjust the size and proportion of the photo by dragging different points. Place the mouse on the top of the photo and click and drag the photo to adjust the position of the photo. The desired effect can also be obtained through the superposition of functions.
