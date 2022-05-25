@@ -26,6 +26,10 @@ Similar to `.doc` extension name for word document, or `.pptx` extension for pow
 
 ## Selects
 
+<video src="./video/Select Explain Output.mpr.mp4"></video>
+
+---
+
 ### Concept
 
 Select allow you to select an area, and your operation afteward will only effect selected area.
@@ -42,6 +46,10 @@ It's commonly used in keying.
 <img src="./img/select-tools/intersect.png" alt="intersect" style="zoom:25%;" /><img src="./img/select-tools/subtract.png" alt="subtract" style="zoom:25%;" /><img src="./img/select-tools/add.png" alt="add" style="zoom:25%;" /><img src="./img/select-tools/replace.png" alt="replace" style="zoom:25%;" />
 
 ## Layers
+
+<video src="./video/Layer Explain Output.mp4"></video>
+
+---
 
 Layer Panel is at the bottom right of the screen by default
 
@@ -65,7 +73,10 @@ Layer Panel is at the bottom right of the screen by default
 
 ## Transforms
 
+<video src="./video/Transform Explain Output.mp4"></video>
+
 ---
+
 Transformation is a very commonly used shortcut key, which includes common functions such as scaling, rotation, distortion, perspective, horizontal flip, and vertical flip.
 ![transform](./img/transform.png)
 We can use these functions to adjust the shape of the image or selected layer at will. 
