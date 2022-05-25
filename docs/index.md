@@ -26,7 +26,7 @@ Similar to `.doc` extension name for word document, or `.pptx` extension for pow
 
 ## Selects
 
-<video src="./video/Select Explain Output.mpr.mp4"></video>
+<video style="width: 90%;" src="./video/Select Explain Output.mpr.mp4"></video>
 
 ---
 
@@ -47,7 +47,7 @@ It's commonly used in keying.
 
 ## Layers
 
-<video src="./video/Layer Explain Output.mp4"></video>
+<video style="width: 90%;" src="./video/Layer Explain Output.mp4"></video>
 
 ---
 
@@ -73,7 +73,7 @@ Layer Panel is at the bottom right of the screen by default
 
 ## Transforms
 
-<video src="./video/Transform Explain Output.mp4"></video>
+<video style="width: 90%;" src="./video/Transform Explain Output.mp4"></video>
 
 ---
 
