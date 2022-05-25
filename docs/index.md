@@ -26,8 +26,20 @@ Similar to `.doc` extension name for word document, or `.pptx` extension for pow
 
 ## Selects
 
----
-TODO
+### Concept
+
+Select allow you to select an area, and your operation afteward will only effect selected area.
+It's commonly used in keying.
+
+​	![select-cube](./img/select-tools/select-cube.png)
+
+### Tools
+
+<img src="./img/select-tools/ellipse-select.png" alt="ellipse-select" style="zoom:25%;" /><img src="./img/select-tools/lasso-select.png" alt="lasso-select" style="zoom:25%;" /><img src="./img/select-tools/magic-wand.png" alt="magic-wand" style="zoom:25%;" /><img src="./img/select-tools/magnetic-lasso-select.png" alt="magnetic-lasso-select" style="zoom:25%;" /><img src="./img/select-tools/object-select.png" alt="object-select" style="zoom:25%;" /><img src="./img/select-tools/polygon-lasso-select.png" alt="polygon-lasso-select" style="zoom:25%;" /><img src="./img/select-tools/quick-select.png" alt="quick-select" style="zoom:25%;" /><img src="./img/select-tools/shape-select.png" alt="shape-select" style="zoom:25%;" />
+
+### Some operation for two selected area
+
+<img src="./img/select-tools/intersect.png" alt="intersect" style="zoom:25%;" /><img src="./img/select-tools/subtract.png" alt="subtract" style="zoom:25%;" /><img src="./img/select-tools/add.png" alt="add" style="zoom:25%;" /><img src="./img/select-tools/replace.png" alt="replace" style="zoom:25%;" />
 
 ## Layers
 
