@@ -83,6 +83,8 @@ We can use these functions to adjust the shape of the image or selected layer at
 
 After calling out the transformation, there will be 8 points in each part of the picture. You can adjust the size and proportion of the photo by dragging different points. Place the mouse on the top of the photo and click and drag the photo to adjust the position of the photo. The desired effect can also be obtained through the superposition of functions.
 
+Drag After selecting the layer, place the mouse on the image and drag it. Scale Ctrl T and drag the origin of the four corners of the picture to zoom in and out proportionally. Rotate After Ctrl T, place the mouse on the outer circle of the picture and drag it clockwise or counterclockwise. Perspective Ctrl T and drag the origin of the four corners of the picture to achieve the perspective effect. distort Ctrl T and drag the origin around the picture to stretch and extrude part of the part. Flip Horizontal and Flip Vertical Ctrl T and then click Flip Horizontal and Flip Vertical to get it.
+
 ## Layer Styles
 
 ---
