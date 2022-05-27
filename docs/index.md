@@ -39,11 +39,43 @@ It's commonly used in keying.
 
 ### Tools
 
-<img src="./img/select-tools/ellipse-select.png" alt="ellipse-select" style="zoom:25%;" /><img src="./img/select-tools/lasso-select.png" alt="lasso-select" style="zoom:25%;" /><img src="./img/select-tools/magic-wand.png" alt="magic-wand" style="zoom:25%;" /><img src="./img/select-tools/magnetic-lasso-select.png" alt="magnetic-lasso-select" style="zoom:25%;" /><img src="./img/select-tools/object-select.png" alt="object-select" style="zoom:25%;" /><img src="./img/select-tools/polygon-lasso-select.png" alt="polygon-lasso-select" style="zoom:25%;" /><img src="./img/select-tools/quick-select.png" alt="quick-select" style="zoom:25%;" /><img src="./img/select-tools/shape-select.png" alt="shape-select" style="zoom:25%;" />
+**These tools select area with shape**
 
-### Some operation for two selected area
+Ellipse
 
-<img src="./img/select-tools/intersect.png" alt="intersect" style="zoom:25%;" /><img src="./img/select-tools/subtract.png" alt="subtract" style="zoom:25%;" /><img src="./img/select-tools/add.png" alt="add" style="zoom:25%;" /><img src="./img/select-tools/replace.png" alt="replace" style="zoom:25%;" />
+<img src="./img/select-tools/ellipse-select.png" alt="ellipse-select" style="zoom:25%;" />
+Square
+<img src="./img/select-tools/shape-select.png" alt="shape-select" style="zoom:25%;" />
+
+**These tools select area with path**
+
+Curve
+<img src="./img/select-tools/lasso-select.png" alt="lasso-select" style="zoom:25%;" />
+Straight Line
+<img src="./img/select-tools/polygon-lasso-select.png" alt="polygon-lasso-select" style="zoom:25%;" />
+Curve with magnet
+<img src="./img/select-tools/magnetic-lasso-select.png" alt="magnetic-lasso-select" style="zoom:25%;" />
+
+**These Tools select area with uniqueness**
+Color
+<img src="./img/select-tools/magic-wand.png" alt="magic-wand" style="zoom:25%;" />
+Automatically(magic)
+<img src="./img/select-tools/object-select.png" alt="object-select" style="zoom:25%;" />
+<img src="./img/select-tools/quick-select.png" alt="quick-select" style="zoom:25%;" />
+
+### Some operations for two selected area
+
+**Replace**
+<img src="./img/select-tools/replace.png" alt="replace" style="zoom:25%;" />
+**Add**
+<img src="./img/select-tools/add.png" alt="add" style="zoom:25%;" />
+**Subtract**
+<img src="./img/select-tools/subtract.png" alt="subtract" style="zoom:25%;" />
+**Intersect**
+<img src="./img/select-tools/intersect.png" alt="intersect" style="zoom:25%;" />
+
+
+
 
 ## Layers
 
