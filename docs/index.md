@@ -26,7 +26,7 @@ Similar to `.doc` extension name for word document, or `.pptx` extension for pow
 
 ## Selects
 
-<video style="width: 100%;" src="./video/Select Explain Output.mpr.mp4" controls></video>
+<video style="width: 100%;" src="./video/Select Explain Subtitle Output.mp4" controls></video>
 
 ---
 
@@ -47,7 +47,7 @@ It's commonly used in keying.
 
 ## Layers
 
-<video style="width: 100%;" src="./video/Layer Explain Output.mp4" controls></video>
+<video style="width: 100%;" src="./video/Layer Explain Caption Output.mp4" controls></video>
 
 ---
 
