@@ -56,6 +56,7 @@ Curve with magnet
 <img src="./img/select-tools/magnetic-lasso-select.png" alt="magnetic-lasso-select" style="zoom:25%;" />
 
 **These Tools select area with uniqueness**
+
 Color
 <img src="./img/select-tools/magic-wand.png" alt="magic-wand" style="zoom:25%;" />
 Automatically(magic)
