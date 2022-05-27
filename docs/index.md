@@ -42,7 +42,6 @@ It's commonly used in keying.
 **These tools select area with shape**
 
 Ellipse
-
 <img src="./img/select-tools/ellipse-select.png" alt="ellipse-select" style="zoom:25%;" />
 Square
 <img src="./img/select-tools/shape-select.png" alt="shape-select" style="zoom:25%;" />
